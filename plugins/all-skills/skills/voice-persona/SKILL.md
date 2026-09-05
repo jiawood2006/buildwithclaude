@@ -1,14 +1,8 @@
 ---
 name: voice-persona
 description: "让 Agent 变成能语音对话的机器人：语音文件转文字（支持微信 silk 格式）+ 多音色人格回复（Edge TTS 免费中文音色），全本地零 API 成本。Voice persona chat: transcribe voice messages (incl. WeChat silk) and reply in persona voices."
-version: 1.0.0
-author: 涛哥
+category: communication
 license: MIT
-metadata:
-  hermes:
-    tags: [voice, stt, tts, persona, silk, wechat, whisper, edge-tts, speech, 语音, 人格]
-    category: autonomous-ai-agents
-    homepage: https://github.com/jiawood2006/hermes-skills
 ---
 
 # Voice-Persona · 语音对话 + 人格音色
